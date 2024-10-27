@@ -1,0 +1,20 @@
+Data Quality Check Report
+=========================
+
+Missing Values:
+No missing values found.
+
+Duplicate Rows:
+Found 3 duplicate rows.
+
+Outliers:
+No outliers found in column 5.1.
+
+Outliers in column 3.5:
+14    4.4
+Name: 3.5, dtype: float64
+
+No outliers found in column 1.4.
+
+No outliers found in column 0.2.
+
